@@ -6,9 +6,9 @@
                     <i class="pe-7s-car icon-gradient bg-mean-fruit"></i>
                 </div>
                 <div>
-                    Analytics Dashboard
+                    Dashboard
                     <div class="page-title-subheading">
-                        This is an example dashboard created using build-in elements and components.
+                        Hier ein Einfacher Untertitel
                     </div>
                 </div>
             </div>
